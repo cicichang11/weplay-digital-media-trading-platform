@@ -1,4 +1,4 @@
-# WePlay Digital Media Trading Platform
+# WePlay Game Store
 
 A web-based game store platform built with Java Spring MVC, offering a seamless gaming experience with features like user authentication, game browsing, shopping cart, and secure payment processing.
 
@@ -47,7 +47,7 @@ A web-based game store platform built with Java Spring MVC, offering a seamless 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cicichang11/weplay-digital-media-trading-platform.git
+git clone https://github.com/yourusername/weplay-store.git
 ```
 
 2. Configure the database:
