@@ -27,6 +27,14 @@ A web-based game store platform built with Java Spring MVC, offering a seamless 
   - Modern and intuitive layout
   - Multi-language support
   - User-friendly navigation
+ 
+## Sneak Peek
+Homepage - The homepage displays featured games, categories, and navigation options.
+![Homepage Screenshot](homepage.png)
+
+FishGame - Users can play the Fish Game directly on the homepage without needing to download or install anything.
+![Fish Game Screenshot](fishgame_screenshot.png)
+
 
 ## Technology Stack
 
